@@ -1,1 +1,2 @@
 c:\users\oswaldo\documents\visual studio 2015\Projects\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.exe.config
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.exe.config
