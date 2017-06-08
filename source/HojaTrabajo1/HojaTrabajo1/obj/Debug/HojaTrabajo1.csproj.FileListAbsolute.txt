@@ -1,2 +1,10 @@
 c:\users\oswaldo\documents\visual studio 2015\Projects\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.exe.config
 C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.exe.config
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.exe
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\bin\Debug\HojaTrabajo1.pdb
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.csprojResolveAssemblyReference.cache
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.Form1.resources
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.Properties.Resources.resources
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.csproj.GenerateResource.Cache
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.exe
+C:\GITHUB_ROOT\Prueba3\source\HojaTrabajo1\HojaTrabajo1\obj\Debug\HojaTrabajo1.pdb
